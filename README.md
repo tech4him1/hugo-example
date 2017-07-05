@@ -1,5 +1,7 @@
 # Victor Hugo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tech4him1/hugo-example.svg)](https://greenkeeper.io/)
+
 **A [Hugo](https://gohugo.io/) boilerplate for creating truly epic websites**
 
 This is a boilerplate for using Hugo as a static site generator and Gulp + Webpack as your
